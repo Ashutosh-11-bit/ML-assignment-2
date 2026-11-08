@@ -1,0 +1,9 @@
+Dataset: Breast Cancer Wisconsin (Diagnostic)
+Source: UCI Machine Learning Repository / scikit-learn mirror
+Instances: 569
+Predictor features: 30
+Target: target (0 = malignant, 1 = benign)
+Train instances: 455
+Test instances: 114
+Random state: 42
+Test size: 20%
